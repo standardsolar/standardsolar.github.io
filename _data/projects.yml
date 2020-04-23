@@ -2,25 +2,25 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Residential Projects
-#  gh_user: Standard Solar
+#  site_url: Standard Solar
 #  repo: DebugContainer
   img: https://4.imimg.com/data4/KN/JF/MY-27175134/solar-residential-power-plant-500x500.jpg
   desc: A list of all my residential projects is here
 
 - name: industrial Projects
-#  gh_user: Standard Solar
+#  site_url: Standard Solar
 #  repo: jekyll-uno-timeline
   img: https://4.imimg.com/data4/KE/PH/MY-14958750/solar-power-system-500x500.jpg
   desc: A list of all my Industrial Projects is here
 
 - name: Solar Heater
-#  gh_user: Standard Solar
+#  site_url: Standard Solar
 #  repo: scripts
   img: https://5.imimg.com/data5/MY/IX/MY-1394900/residential-solar-water-heater-500x500.jpg
   desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
 
 - name: Standard Gensets
-#  gh_user: Standard Solar
+#  site_url: Standard Solar
   # repo: FaceApiWPF
   img: https://tiimg.tistatic.com/fp/1/005/774/diesel-electric-generator-sets-831.jpg
   desc: Standard Gensets, Gandhidham - Guajrat
