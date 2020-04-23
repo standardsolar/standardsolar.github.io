@@ -1,15 +1,15 @@
 # Site settings
-title: DS_Store
+title: Standard Solar
 description: 'Business Card Page'
 url: '#'
 baseurl: ''
-profilepic: '/images/icon-solar.svg'
+profilepic: '/images/solar-icon.svg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'DS_Store'
+  name: 'Standard Solar'
   email: standardsolargj@gmail.com
   twitter_username: standardsoalr
 #  facebook_username: joshgerdes
