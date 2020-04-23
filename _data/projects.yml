@@ -10,7 +10,7 @@
 - name: industrial Projects
   gh_user: Standard Solar
 #  repo: jekyll-uno-timeline
-  img:0 https://4.imimg.com/data4/KE/PH/MY-14958750/solar-power-system-500x500.jpg
+  img: https://4.imimg.com/data4/KE/PH/MY-14958750/solar-power-system-500x500.jpg
   desc: A list of all my Industrial Projects is here
 
 - name: Solar Heater
