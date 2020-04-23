@@ -3,7 +3,7 @@ title: Standard Solar
 description: 'Business Card Page'
 url: '#'
 baseurl: ''
-profilepic: '_site/images/solar-icon.svg'
+profilepic: '/images/solar-icon.svg'
 bkimage: '/images/solar-bg.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
